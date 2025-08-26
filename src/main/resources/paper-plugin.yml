@@ -1,0 +1,5 @@
+name: MossControl
+version: '1.0'
+main: org.extstudios.mossControl.MossControl
+api-version: '1.21'
+authors: [ eextr0 ]
